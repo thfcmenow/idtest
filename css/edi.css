@@ -1,0 +1,26 @@
+.header {background:#72b431; padding:1.5em}
+.clear{clear:both;}
+.clear-pad{clear:both;padding:35px 0 15px;}
+.center {text-align:center;}
+.headImage{width:100px}
+.error{color:red;padding:10px 0 5px;}
+.leftFix{padding-left:0px !important}
+.topFix{margin-top:12px !important}
+.container ul,.container >div:first-of-type, .content{padding-top:12px;max-width:806px;margin:0 auto }
+.container ul,.container >div:first-of-type, .res{max-width:806px;margin:0 auto }
+.nav-tabs > li:last-of-type {float:right}
+.nav-tabs > li:last-of-type > a {margin-right:0px;} 
+.container .tab-content {max-width:810px;}
+#plookup {display:none;}
+#pleaseWaitDialogbg {background-color:black;opacity:0.3;}
+.processing-container {width: 100%;height: 100%;margin-left: auto;margin-right: auto;overflow: hidden;display:none;position:fixed;top:0;left:0;}
+.processing-container img {position: absolute;margin: auto;top: 0;left: 0;right: 0;bottom: 0;}
+table {border-collapse: separate;border-spacing: 1em;}
+table span:last-of-type {color:gray; display:block;}
+table.lookup-result  {border-collapse : separate;border-spacing:3px; padding-bottom:30px;}
+table.lookup-result tr {padding:3px 0;}
+table.lookup-result tr td{font-size:14px;}
+table.lookup-result tr td:first-of-type{padding-right:20px;}
+.hide {display:none}
+.nav {margin-bottom:30px !important}
+.active {background-color:rgb(216, 216, 195)}

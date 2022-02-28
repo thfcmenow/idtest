@@ -1,0 +1,14 @@
+{
+  "name": "node_test_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "David Russell <thfcme@gmail.com>",
+  "main": "server.js",
+  "script": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "tingodb": "^0.6.1"
+  }
+}
