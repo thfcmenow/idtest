@@ -16,7 +16,7 @@ var Engine = require('tingodb')(),
 //import express from 'express';
 const express = require('express')
 const app = express()
-const port = 3000
+const port = process.env.PORT || 3000
 const router = express.Router();
 const path = require('path');
 // import path from 'path';
